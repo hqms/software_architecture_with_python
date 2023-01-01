@@ -11,3 +11,7 @@ computer if you want to run directly from the Notebook.
 
 Every packages that required to run codes or Notebook will be listed on requirements.txt, use `pip` to install it.
 
+
+## Other resources 
+* [Videos](https://www.packtpub.com/product/software-architecture-with-python-video/9781788624855)
+* [Official Source Codes](https://github.com/PacktPublishing/Software-Architecture-with-Python)
